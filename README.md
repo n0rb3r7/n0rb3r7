@@ -2,7 +2,7 @@
 # Welcome!
 
 Hallo! :wave: I'm Norbert and I work as **web developer** and as a **designer**. I used to be a **peasant** in my childhood, living in the nature with cows, chickens, goats, geese and an old 486 PC. Since then I've created stuff in wood, paper, soil and through bits. 
-After years of changes in 2017 I started with my own business to provide my services wich can be reach here [Stange Studio](https://stangestudio.com/).
+After years of changes in 2017 I started with my own business to provide my services which can be reach here [Stange Studio](https://stangestudio.com/).
 > I suck at updating my social networks, that's why I love my [last.fm](https://www.last.fm/es/user/N0rb3r7/) (it does it all).
 
 #### Currently working on
