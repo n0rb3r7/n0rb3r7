@@ -1,26 +1,17 @@
-### Hi there 👋
-# Welcome!
+# Willkommen!
 
-Hallo! :wave: I'm Norbert and I work as **web developer** and as a **designer**. I used to be a **peasant** in my childhood, living in the nature with cows, chickens, goats, geese and an old 486 PC. Since then I've created stuff in wood, paper, soil and through bits. 
-After years of changes in 2017 I started with my own business to provide my services which can be reach here [Stange Studio](https://stangestudio.com/).
+Hallo! :wave: I'm Norbert and I'm a **web developer** and also **designer**. I used to be a **peasant** in my childhood, living in the nature with cows, chickens, goats, geese and an old 486 PC. Since then I've created stuff in wood, paper, soil and lately with code. 
+After years of changes, in 2017 I started with my own business to provide my services which can be reached here [Stange Studio](https://stangestudio.com/).
 > I suck at updating my social networks, that's why I love my [last.fm](https://www.last.fm/es/user/N0rb3r7/) (it does it all).
 
-#### Currently working on
 
-* LearnPress implementation for a local entrepreneurship.
-* Something more :thinking: 
-* Updating all my media
+I`m currently learning Hugo + Forestry + Netlify. 
+I can drink a beer and have a convo speaking in **Spanish**, **English** and **German**, for now... 
+
 <!--
+
+
 **n0rb3r7/n0rb3r7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
